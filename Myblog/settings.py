@@ -29,7 +29,7 @@ SECRET_KEY = os.environ.get('secret')
 DEBUG = True
 
 ALLOWED_HOSTS = ['devit-blog.herokuapp.com']
-
+#ALLOWED_HOSTS = []
 
 # Application definition
 
