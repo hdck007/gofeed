@@ -10,6 +10,7 @@ django-crispy-forms==1.9.2
 django-js-asset==1.2.2
 django-six==1.0.4
 django-storages==1.9.1
+django-heroku
 docutils==0.15.2
 gunicorn==20.0.4
 idna==2.10
